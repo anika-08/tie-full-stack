@@ -60,29 +60,6 @@ Mongoose will be used with our MongoDB implementation, it is an Object Data Mode
 
 FLoraShop is a single page application (SPA) that utilises the dashboard component as the main wrapper element for rendering various view layers.
 
-
-## Wireframes
-
-![FLoraShop Landing Page](docs/HomePage.jpg)
-![FLoraShop Register View](docs/RegisterPage.jpg)
-![FLoraShop Login View](docs/LoginPage.jpg)
-![FLoraShop Single Product View Page](docs/SingleProductViewPage.jpg)
-![FLoraShop  CustomerReviewsSection View](docs/CustomerReviewsSection.jpg)
-![FLoraShop Add Product Page](docs/AddProduct.jpg)
-![FLoraShop Add Product Page](docs/AddProduct2.jpg)
-![FLoraShop Add to Cart Page](docs/AddToCartPage.jpg)
-![FLoraShop Shipping Page Page](docs/ShippingPage.jpg)
-![FLoraShop Order Page](docs/OrderPage.jpg)
-![FLoraShop Payment Page](docs/PaymentPage.jpg)
-![FLoraShop Last Page](docs/FInalPageBeforePay.jpg)
-![FLoraShop Profile Page Page](docs/UserProfilePage.jpg)
-![FLoraShop Admin Screeen](docs/AdminScreenUsers.jpg)
-![FLoraShop Admin Page](docs/AdminScreenOrder.jpg)
-![FLoraShop Admin Page](docs/AdminScreenProducts.jpg)
-
-
-
-
 #### Thankyou...
 
 

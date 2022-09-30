@@ -8,9 +8,6 @@
 
 https://florashopapp.herokuapp.com
 
-![FLoraShop Banner](docs/HomePage.jpg)
-
-
 #### User authentication/login system
 
 Authentication is needed for clients to use the application, as a user and profile are needed to make communicate with developers - the primary purpose of the application. 

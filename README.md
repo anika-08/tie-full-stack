@@ -1,20 +1,12 @@
-[![Header](https://github.com/Myilvaganan/DevConnector/blob/main/ProfileHeader.png "Header")](https://github.com/Myilvaganan/)
-
-# FLoraShop MERN APP
+# FLoraShop Compsoft Technologies App
 
 <img src="./logo.jpg" width="260"/>
-
-# Project Done By:  <a href="https://github.com/Myilvaganan" noreferrer target="_blank">Myilvaganan</a>
 
 # E- Commerce website to sell and buy Products
 
 ## Deployed Website
 
 https://florashopapp.herokuapp.com
-
-## Github Repository
-
-https://github.com/Myilvaganan/florashop
 
 ![FLoraShop Banner](docs/HomePage.jpg)
 
